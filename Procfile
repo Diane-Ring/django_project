@@ -1,0 +1,1 @@
+web: gunicorn d-ring-hello-world.wsgi
